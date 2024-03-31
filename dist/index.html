@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <title>Leaflet.VideoMaps-demo</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        width: 100%;
+        height: 100vh;
+      }
+      #vplayer {
+        position: absolute;
+        top: 540px;
+        left: 10px;
+        width: 450px;
+        height: 270px;
+        padding: 0px;
+        z-index: 500;
+        /* border: 5px solid red; */
+      }
+      .box{
+        position: absolute;
+        top: 0;
+        z-index: 9999;
+        text-align: center;
+        width: 150px;
+        left: 50%;
+        margin-left: -75px; /* half of the width */
+        background-color:rgb(43, 178, 160);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box"> Click on Track to play the video </div>
+    <div id="map"></div>
+    <div id="vplayer"></div>
+  </body>
+</html>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.vectorgrid@latest/dist/Leaflet.VectorGrid.js"></script>
+<script src="https://unpkg.com/leaflet.videomaps@1.1.1/dist/Leaflet.VideoMaps.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier-Leaflet/0.2.6/oms.min.js"></script>.
+<script src="https://www.youtube.com/iframe_api"></script>
+
+<script>
+
+var map = L.map("map").setView([13.2, 101.0], 11);
+  var osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  });
+//   osm.addTo(map);
+
+  googleSat = L.tileLayer('http://{s}.google.com/vt?lyrs=s&x={x}&y={y}&z={z}',{
+	maxZoom: 19,
+	subdomains:['mt0','mt1','mt2','mt3']
+});
+
+//osm.addTo(map);
+googleSat.addTo(map);
+var oms = new OverlappingMarkerSpiderfier(map);
+
+var ig = {};
+fetch('icon_groups.json')
+	.then(res => res.json())
+	.then((out) => {ig = out;})
+
+signsLayer = L.geoJson(null,{
+	renderer:L.canvas(),
+	filter: function(feature, layer) {
+        if (feature.geometry.type == 'Point'){
+		    return feature.properties.class != 'other-signs'
+		    return true;
+            }
+		// return feature.properties.area > 10000;
+	},
+	pointToLayer: function (feature, latlng) {
+		if (feature.properties.class != 'other-signs'){
+			if (ig[feature.properties.class] != '-'){
+				group = ig[feature.properties.class]
+			}
+			else {
+				group = 'g1'
+			}
+			nm = '--'+group
+		}
+		else {
+			nm = ''
+		}
+		var signIcon = L.icon({
+			iconUrl: 'icons/' + feature.properties.class + nm + '.svg',
+			iconSize: [16, 16],
+			iconAnchor: [8, 8],
+		});
+		var mar = L.marker(latlng, {icon: signIcon});
+        oms.addMarker(mar);
+        return mar;
+	},
+	onEachFeature: function (feature, layer) {
+		if (feature.geometry.type == 'Point' && feature.properties) {
+			layer.bindPopup(feature.properties.track_id+': '+feature.properties.class);
+		}
+	}
+}).addTo(map);
+
+oms.addListener('spiderfy', function(markers) {
+    for (var i = 0, len = markers.length; i < len; i ++) markers[i].setIcon(new lightIcon());
+        map.closePopup();
+});
+oms.addListener('unspiderfy', function(markers) {
+    for (var i = 0, len = markers.length; i < len; i ++) markers[i].setIcon(new darkIcon());
+});
+
+fetch('./sample_tracks.geojson')
+    .then(result => result.json())
+    .then((output) => {
+        var addedTrack = L.VideoMaps.drawTrack(output, "vplayer").addTo(map);
+    })
+    .catch(err => console.error(err));
+
+fetch('./sample_signs.geojson')
+	.then(result => result.json())
+	.then((output) => {
+		console.log(output);
+		signsLayer.addData(output);
+	})
+	.catch(err => console.error(err));
+
+</script>   
+

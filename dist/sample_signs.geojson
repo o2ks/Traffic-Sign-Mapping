@@ -1,0 +1,5640 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1441,
+                "track_id_re": 7,
+                "time": 20.766666666666666,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    2167,
+                    43,
+                    2383,
+                    214
+                ],
+                "area": 36936
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91690795319134,
+                    12.80931746197427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1447,
+                "track_id_re": 11,
+                "time": 33.36666666666667,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    11,
+                    1270,
+                    105,
+                    1386
+                ],
+                "area": 10904
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91678331315536,
+                    12.810575358068887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1450,
+                "track_id_re": 13,
+                "time": 36.666666666666664,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    91,
+                    932,
+                    461,
+                    1480
+                ],
+                "area": 202760
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91678344225676,
+                    12.810999240788554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1451,
+                "track_id_re": 14,
+                "time": 36.6,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    361,
+                    1544,
+                    534,
+                    1923
+                ],
+                "area": 65567
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91678344225676,
+                    12.810999240788554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1480,
+                "track_id_re": 21,
+                "time": 70.46666666666667,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    550,
+                    214,
+                    724,
+                    391
+                ],
+                "area": 30798
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91662069452883,
+                    12.8144190752468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1485,
+                "track_id_re": 24,
+                "time": 69.93333333333334,
+                "class": "information--highway-exit",
+                "bbox": [
+                    930,
+                    769,
+                    1141,
+                    923
+                ],
+                "area": 32494
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91662069452883,
+                    12.8144190752468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1486,
+                "track_id_re": 25,
+                "time": 69.7,
+                "class": "information--highway-exit",
+                "bbox": [
+                    1513,
+                    903,
+                    1711,
+                    1036
+                ],
+                "area": 26334
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91662069452883,
+                    12.8144190752468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1510,
+                "track_id_re": 38,
+                "time": 92.86666666666666,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    2271,
+                    54,
+                    2493,
+                    207
+                ],
+                "area": 33966
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91654989213175,
+                    12.816749375663916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1525,
+                "track_id_re": 45,
+                "time": 105.1,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    1533,
+                    1599,
+                    1578,
+                    1645
+                ],
+                "area": 2070
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91639282646037,
+                    12.818022219127672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1527,
+                "track_id_re": 46,
+                "time": 108.73333333333333,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    65,
+                    1196,
+                    194,
+                    1378
+                ],
+                "area": 23478
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91636013463392,
+                    12.818432617183486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1535,
+                "track_id_re": 51,
+                "time": 118.93333333333334,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    3727,
+                    1170,
+                    3816,
+                    1337
+                ],
+                "area": 14863
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91640336893443,
+                    12.819496434837896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1536,
+                "track_id_re": 52,
+                "time": 119.93333333333334,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    38,
+                    1256,
+                    129,
+                    1418
+                ],
+                "area": 14742
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91629503025602,
+                    12.819584147131385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1542,
+                "track_id_re": 56,
+                "time": 133.26666666666668,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    33,
+                    1216,
+                    191,
+                    1486
+                ],
+                "area": 42660
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91624633107047,
+                    12.820864556674756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1551,
+                "track_id_re": 58,
+                "time": 133.26666666666668,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    39,
+                    1493,
+                    122,
+                    1698
+                ],
+                "area": 17015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91624633107047,
+                    12.820864556674756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1565,
+                "track_id_re": 68,
+                "time": 135.96666666666667,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3716,
+                    1286,
+                    3791,
+                    1415
+                ],
+                "area": 9675
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91632215753727,
+                    12.821185302730383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1571,
+                "track_id_re": 71,
+                "time": 140.7,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3751,
+                    1259,
+                    3831,
+                    1408
+                ],
+                "area": 11920
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91628947128201,
+                    12.821705495851385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1573,
+                "track_id_re": 72,
+                "time": 145.06666666666666,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2410,
+                    1597,
+                    2447,
+                    1642
+                ],
+                "area": 1665
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91625655278283,
+                    12.822127783683936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1574,
+                "track_id_re": 73,
+                "time": 147.76666666666668,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3711,
+                    1257,
+                    3804,
+                    1402
+                ],
+                "area": 13485
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91620771520105,
+                    12.822449297650444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1578,
+                "track_id_re": 76,
+                "time": 154.36666666666667,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3733,
+                    1269,
+                    3816,
+                    1404
+                ],
+                "area": 11205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91609322844377,
+                    12.823095137813622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1583,
+                "track_id_re": 80,
+                "time": 158.0,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3359,
+                    1400,
+                    3432,
+                    1510
+                ],
+                "area": 8030
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9159792962335,
+                    12.823526452902007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1583,
+                "track_id_re": 80,
+                "time": 158.03333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3380,
+                    1390,
+                    3453,
+                    1500
+                ],
+                "area": 8030
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9159792962335,
+                    12.823526452902007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 24,
+                "track_id_re": 12,
+                "time": 22.9,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    191,
+                    1057,
+                    354,
+                    1321
+                ],
+                "area": 43032
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99465617803746,
+                    13.247412871856522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 30,
+                "track_id_re": 15,
+                "time": 24.6,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3653,
+                    1325,
+                    3712,
+                    1439
+                ],
+                "area": 6726
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99465041908826,
+                    13.247159188530146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 38,
+                "track_id_re": 19,
+                "time": 46.0,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    114,
+                    1010,
+                    286,
+                    1299
+                ],
+                "area": 49708
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99566515490079,
+                    13.24477449082683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 121,
+                "track_id_re": 45,
+                "time": 110.1,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    19,
+                    1020,
+                    156,
+                    1285
+                ],
+                "area": 36305
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99843193275801,
+                    13.237511697337077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 155,
+                "track_id_re": 55,
+                "time": 108.33333333333333,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    1371,
+                    1561,
+                    1413,
+                    1620
+                ],
+                "area": 2478
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99835050079865,
+                    13.23772138537357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 159,
+                "track_id_re": 57,
+                "time": 111.16666666666667,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    59,
+                    863,
+                    222,
+                    1132
+                ],
+                "area": 43847
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99846432538445,
+                    13.237404277042781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 160,
+                "track_id_re": 58,
+                "time": 110.66666666666667,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    1860,
+                    87,
+                    2087,
+                    252
+                ],
+                "area": 37455
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99837812253728,
+                    13.237371927376993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 162,
+                "track_id_re": 59,
+                "time": 110.0,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    205,
+                    1340,
+                    282,
+                    1519
+                ],
+                "area": 13783
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99843193275801,
+                    13.237511697337077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 187,
+                "track_id_re": 66,
+                "time": 119.6,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3617,
+                    1232,
+                    3699,
+                    1367
+                ],
+                "area": 11070
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99872041141582,
+                    13.23649793365453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 189,
+                "track_id_re": 67,
+                "time": 120.33333333333333,
+                "class": "regulatory--maximum-speed-limit-120",
+                "bbox": [
+                    2335,
+                    1566,
+                    2387,
+                    1618
+                ],
+                "area": 2704
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99872041141582,
+                    13.23649793365453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 191,
+                "track_id_re": 69,
+                "time": 122.56666666666666,
+                "class": "regulatory--maximum-speed-limit-120",
+                "bbox": [
+                    3769,
+                    1390,
+                    3815,
+                    1461
+                ],
+                "area": 3266
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99883310477695,
+                    13.236220393209926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 192,
+                "track_id_re": 70,
+                "time": 123.93333333333334,
+                "class": "regulatory--maximum-speed-limit-120",
+                "bbox": [
+                    3696,
+                    1270,
+                    3812,
+                    1485
+                ],
+                "area": 24940
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99886663685852,
+                    13.236124199582205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 218,
+                "track_id_re": 77,
+                "time": 146.16666666666666,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    25,
+                    1035,
+                    172,
+                    1304
+                ],
+                "area": 39543
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99989710429367,
+                    13.233769360369925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 221,
+                "track_id_re": 78,
+                "time": 149.8,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    138,
+                    1028,
+                    297,
+                    1291
+                ],
+                "area": 41817
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00005912329273,
+                    13.23331758206262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 235,
+                "track_id_re": 81,
+                "time": 162.66666666666666,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    164,
+                    1085,
+                    302,
+                    1328
+                ],
+                "area": 33534
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00067794716897,
+                    13.2317522152391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 253,
+                "track_id_re": 86,
+                "time": 171.43333333333334,
+                "class": "warning--traffic-merges-right",
+                "bbox": [
+                    227,
+                    942,
+                    370,
+                    1190
+                ],
+                "area": 35464
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00103583496107,
+                    13.230784256886073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 256,
+                "track_id_re": 89,
+                "time": 170.96666666666667,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    3659,
+                    1026,
+                    3795,
+                    1268
+                ],
+                "area": 32912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00094984212873,
+                    13.230751387637937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 258,
+                "track_id_re": 91,
+                "time": 170.73333333333332,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3301,
+                    1380,
+                    3375,
+                    1526
+                ],
+                "area": 10804
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00094984212873,
+                    13.230751387637937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 274,
+                "track_id_re": 96,
+                "time": 184.43333333333334,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    296,
+                    1107,
+                    451,
+                    1350
+                ],
+                "area": 37665
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00165432422466,
+                    13.229187170390889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 317,
+                "track_id_re": 105,
+                "time": 214.4,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3672,
+                    1124,
+                    3750,
+                    1269
+                ],
+                "area": 11310
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0028857515021,
+                    13.22572668114017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 329,
+                "track_id_re": 106,
+                "time": 222.2,
+                "class": "regulatory--maximum-speed-limit-120",
+                "bbox": [
+                    3486,
+                    1421,
+                    3567,
+                    1554
+                ],
+                "area": 10773
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00324471746171,
+                    13.224741577761442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 355,
+                "track_id_re": 115,
+                "time": 236.33333333333334,
+                "class": "warning--curve-right",
+                "bbox": [
+                    3686,
+                    1383,
+                    3735,
+                    1450
+                ],
+                "area": 3283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00389600903291,
+                    13.223054362163156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 355,
+                "track_id_re": 115,
+                "time": 236.4,
+                "class": "warning--curve-right",
+                "bbox": [
+                    3717,
+                    1373,
+                    3766,
+                    1440
+                ],
+                "area": 3283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00389600903291,
+                    13.223054362163156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 357,
+                "track_id_re": 117,
+                "time": 238.26666666666668,
+                "class": "warning--curve-right",
+                "bbox": [
+                    2993,
+                    1482,
+                    3085,
+                    1589
+                ],
+                "area": 9844
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00399252290816,
+                    13.2228234420582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 365,
+                "track_id_re": 118,
+                "time": 242.96666666666667,
+                "class": "warning--curve-right",
+                "bbox": [
+                    1722,
+                    1550,
+                    1757,
+                    1585
+                ],
+                "area": 1225
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00432466771136,
+                    13.222228234387716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 367,
+                "track_id_re": 120,
+                "time": 247.06666666666666,
+                "class": "warning--curve-right",
+                "bbox": [
+                    64,
+                    973,
+                    216,
+                    1236
+                ],
+                "area": 39976
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00450197451993,
+                    13.221732249758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 396,
+                "track_id_re": 127,
+                "time": 255.93333333333334,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    80,
+                    1024,
+                    229,
+                    1293
+                ],
+                "area": 40081
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00494287743923,
+                    13.220595364547455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 416,
+                "track_id_re": 133,
+                "time": 270.73333333333335,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3753,
+                    1291,
+                    3817,
+                    1406
+                ],
+                "area": 7360
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00542329954501,
+                    13.218662640536639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 520,
+                "track_id_re": 7,
+                "time": 12.5,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3663,
+                    1276,
+                    3772,
+                    1442
+                ],
+                "area": 18094
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.11525234274126,
+                    13.094085870125957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 521,
+                "track_id_re": 8,
+                "time": 12.033333333333333,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3039,
+                    1570,
+                    3107,
+                    1706
+                ],
+                "area": 9248
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.11525234274126,
+                    13.094085870125957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 580,
+                "track_id_re": 21,
+                "time": 121.86666666666666,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    2547,
+                    1518,
+                    2600,
+                    1605
+                ],
+                "area": 4611
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.10348349612528,
+                    13.094498902993019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 588,
+                "track_id_re": 24,
+                "time": 125.86666666666666,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    3124,
+                    442,
+                    3286,
+                    634
+                ],
+                "area": 31104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.10302734376931,
+                    13.094500939387594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 613,
+                "track_id_re": 31,
+                "time": 141.0,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3676,
+                    1285,
+                    3805,
+                    1453
+                ],
+                "area": 21672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.10128265475963,
+                    13.094431661249619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 616,
+                "track_id_re": 33,
+                "time": 141.0,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3709,
+                    1459,
+                    3821,
+                    1679
+                ],
+                "area": 24640
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.10128265475963,
+                    13.094431661249619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 626,
+                "track_id_re": 36,
+                "time": 193.4,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    2249,
+                    1589,
+                    2301,
+                    1642
+                ],
+                "area": 2756
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0955862363822,
+                    13.094089877045873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 654,
+                "track_id_re": 37,
+                "time": 197.2,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    17,
+                    1250,
+                    217,
+                    1499
+                ],
+                "area": 49800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.09513557732006,
+                    13.09397770477493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 655,
+                "track_id_re": 38,
+                "time": 196.86666666666667,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    3575,
+                    1009,
+                    3784,
+                    1314
+                ],
+                "area": 63745
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0951313497632,
+                    13.094067542620854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 657,
+                "track_id_re": 40,
+                "time": 210.06666666666666,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    3646,
+                    1010,
+                    3836,
+                    1333
+                ],
+                "area": 61370
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0936324329845,
+                    13.093982000980494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 673,
+                "track_id_re": 47,
+                "time": 283.6666666666667,
+                "class": "warning--railroad-crossing-with-barriers",
+                "bbox": [
+                    1680,
+                    1248,
+                    1759,
+                    1316
+                ],
+                "area": 5372
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0920111252747,
+                    13.093845621740696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 691,
+                "track_id_re": 55,
+                "time": 291.7,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    416,
+                    1412,
+                    553,
+                    1582
+                ],
+                "area": 23290
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0918628254204,
+                    13.09380269772481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 692,
+                "track_id_re": 56,
+                "time": 291.6666666666667,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    451,
+                    1584,
+                    518,
+                    1715
+                ],
+                "area": 8777
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0918628254204,
+                    13.09380269772481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 697,
+                "track_id_re": 58,
+                "time": 294.6333333333333,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    2583,
+                    1584,
+                    2635,
+                    1639
+                ],
+                "area": 2860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.09167965947599,
+                    13.093882335948159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 697,
+                "track_id_re": 58,
+                "time": 294.6666666666667,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    2590,
+                    1583,
+                    2642,
+                    1638
+                ],
+                "area": 2860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.09167965947599,
+                    13.093882335948159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 698,
+                "track_id_re": 59,
+                "time": 294.6666666666667,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    2598,
+                    1638,
+                    2640,
+                    1711
+                ],
+                "area": 3066
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.09167965947599,
+                    13.093882335948159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1,
+                "track_id_re": 1,
+                "time": 7.366666666666666,
+                "class": "warning--curve-left",
+                "bbox": [
+                    728,
+                    1530,
+                    800,
+                    1616
+                ],
+                "area": 6192
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0040390985111,
+                    13.208310953771859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 4,
+                "track_id_re": 4,
+                "time": 2.9,
+                "class": "warning--curve-left",
+                "bbox": [
+                    858,
+                    1637,
+                    898,
+                    1685
+                ],
+                "area": 1920
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00395990332797,
+                    13.208424195122367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 5,
+                "track_id_re": 5,
+                "time": 5.433333333333334,
+                "class": "warning--curve-left",
+                "bbox": [
+                    1190,
+                    1605,
+                    1228,
+                    1653
+                ],
+                "area": 1824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0040390985111,
+                    13.208310953771859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 5,
+                "track_id_re": 5,
+                "time": 10.833333333333334,
+                "class": "warning--curve-left",
+                "bbox": [
+                    1309,
+                    1595,
+                    1347,
+                    1643
+                ],
+                "area": 1824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00410744458935,
+                    13.208355553728612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 29,
+                "track_id_re": 6,
+                "time": 14.366666666666667,
+                "class": "warning--curve-left",
+                "bbox": [
+                    744,
+                    1539,
+                    814,
+                    1624
+                ],
+                "area": 5950
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00408965084087,
+                    13.208348609681957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 30,
+                "track_id_re": 7,
+                "time": 16.766666666666666,
+                "class": "warning--curve-left",
+                "bbox": [
+                    1535,
+                    1580,
+                    1576,
+                    1633
+                ],
+                "area": 2173
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00407165059127,
+                    13.208331298823959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 31,
+                "track_id_re": 8,
+                "time": 22.866666666666667,
+                "class": "warning--curve-left",
+                "bbox": [
+                    3349,
+                    1379,
+                    3432,
+                    1513
+                ],
+                "area": 11122
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00407165058895,
+                    13.20834350585526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 65,
+                "track_id_re": 22,
+                "time": 37.5,
+                "class": "complementary--go-left",
+                "bbox": [
+                    21,
+                    835,
+                    335,
+                    1128
+                ],
+                "area": 92002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00410543762884,
+                    13.208575595640717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 67,
+                "track_id_re": 24,
+                "time": 45.766666666666666,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    19,
+                    880,
+                    271,
+                    1251
+                ],
+                "area": 93492
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00417156212899,
+                    13.20879480408395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 74,
+                "track_id_re": 28,
+                "time": 45.766666666666666,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    25,
+                    1269,
+                    165,
+                    1568
+                ],
+                "area": 41860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00417156212899,
+                    13.20879480408395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 75,
+                "track_id_re": 29,
+                "time": 40.4,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    1769,
+                    1501,
+                    1825,
+                    1567
+                ],
+                "area": 3696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00412630403137,
+                    13.208654265734513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 77,
+                "track_id_re": 31,
+                "time": 47.56666666666667,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    23,
+                    687,
+                    260,
+                    1061
+                ],
+                "area": 88638
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00419077899336,
+                    13.20885047341855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 81,
+                "track_id_re": 33,
+                "time": 46.93333333333333,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    2014,
+                    105,
+                    2234,
+                    259
+                ],
+                "area": 33880
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00425550234809,
+                    13.208780833718485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 94,
+                "track_id_re": 42,
+                "time": 55.266666666666666,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3722,
+                    1212,
+                    3800,
+                    1346
+                ],
+                "area": 10452
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00435566214583,
+                    13.20905834603457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 146,
+                "track_id_re": 58,
+                "time": 84.8,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    15,
+                    1003,
+                    228,
+                    1335
+                ],
+                "area": 70716
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00493570134664,
+                    13.211520264397247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 193,
+                "track_id_re": 74,
+                "time": 112.2,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    1715,
+                    1575,
+                    1755,
+                    1612
+                ],
+                "area": 1480
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00527607656886,
+                    13.214172363277058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 193,
+                "track_id_re": 74,
+                "time": 112.23333333333333,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    1715,
+                    1573,
+                    1755,
+                    1610
+                ],
+                "area": 1480
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00527607656886,
+                    13.214172363277058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 199,
+                "track_id_re": 76,
+                "time": 116.56666666666666,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    11,
+                    1005,
+                    218,
+                    1322
+                ],
+                "area": 65619
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00527607646487,
+                    13.214721679683356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 270,
+                "track_id_re": 90,
+                "time": 210.73333333333332,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    80,
+                    1016,
+                    308,
+                    1348
+                ],
+                "area": 75696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00260973642906,
+                    13.224817403525108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 281,
+                "track_id_re": 94,
+                "time": 231.4,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    45,
+                    844,
+                    267,
+                    1154
+                ],
+                "area": 68820
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00176333133372,
+                    13.226963938572009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 287,
+                "track_id_re": 96,
+                "time": 231.36666666666667,
+                "class": "complementary--distance",
+                "bbox": [
+                    114,
+                    1201,
+                    280,
+                    1312
+                ],
+                "area": 18426
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00176333133372,
+                    13.226963938572009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 292,
+                "track_id_re": 99,
+                "time": 251.56666666666666,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    3674,
+                    1111,
+                    3815,
+                    1368
+                ],
+                "area": 36237
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00095508864672,
+                    13.229336055225842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 293,
+                "track_id_re": 100,
+                "time": 251.56666666666666,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3742,
+                    1388,
+                    3821,
+                    1591
+                ],
+                "area": 16037
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00095508864672,
+                    13.229336055225842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 394,
+                "track_id_re": 139,
+                "time": 288.4,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    78,
+                    1108,
+                    240,
+                    1383
+                ],
+                "area": 44550
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99930524516752,
+                    13.23338186881593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 409,
+                "track_id_re": 145,
+                "time": 294.23333333333335,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    2798,
+                    1465,
+                    2853,
+                    1526
+                ],
+                "area": 3355
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99906715083641,
+                    13.234247118762159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 418,
+                "track_id_re": 150,
+                "time": 295.3333333333333,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3741,
+                    1226,
+                    3815,
+                    1354
+                ],
+                "area": 9472
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99903351709202,
+                    13.234369933551054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 422,
+                "track_id_re": 154,
+                "time": 299.3333333333333,
+                "class": "regulatory--maximum-speed-limit-120",
+                "bbox": [
+                    3712,
+                    1258,
+                    3808,
+                    1468
+                ],
+                "area": 20160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99885464437946,
+                    13.234825275771817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 424,
+                "track_id_re": 156,
+                "time": 298.1,
+                "class": "regulatory--maximum-speed-limit-20",
+                "bbox": [
+                    3671,
+                    1405,
+                    3713,
+                    1474
+                ],
+                "area": 2898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99890341915652,
+                    13.234709436181507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2034,
+                "track_id_re": 3,
+                "time": 1.8666666666666667,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3752,
+                    1114,
+                    3834,
+                    1263
+                ],
+                "area": 12218
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99052284324154,
+                    13.166991786276808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2035,
+                "track_id_re": 4,
+                "time": 4.566666666666666,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3722,
+                    1147,
+                    3805,
+                    1300
+                ],
+                "area": 12699
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99058957711001,
+                    13.1672461572472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2040,
+                "track_id_re": 8,
+                "time": 9.433333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3709,
+                    1237,
+                    3796,
+                    1398
+                ],
+                "area": 14007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99060583541001,
+                    13.167570502766477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2048,
+                "track_id_re": 9,
+                "time": 9.833333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2169,
+                    1594,
+                    2204,
+                    1634
+                ],
+                "area": 1400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99060511090211,
+                    13.167652374481225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2049,
+                "track_id_re": 10,
+                "time": 11.733333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2630,
+                    1549,
+                    2684,
+                    1617
+                ],
+                "area": 3672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99057260687307,
+                    13.167804734286895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2050,
+                "track_id_re": 11,
+                "time": 13.6,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3755,
+                    1246,
+                    3837,
+                    1401
+                ],
+                "area": 12710
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99054012046325,
+                    13.167961069233701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2052,
+                "track_id_re": 12,
+                "time": 13.6,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2320,
+                    1619,
+                    2365,
+                    1672
+                ],
+                "area": 2385
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99054012046325,
+                    13.167961069233701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2053,
+                "track_id_re": 13,
+                "time": 15.233333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2559,
+                    1586,
+                    2607,
+                    1645
+                ],
+                "area": 2832
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99053911948869,
+                    13.16804442785965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2054,
+                "track_id_re": 14,
+                "time": 17.433333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3719,
+                    1270,
+                    3811,
+                    1435
+                ],
+                "area": 15180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9904912923847,
+                    13.168203175345315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2055,
+                "track_id_re": 15,
+                "time": 24.8,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    34,
+                    729,
+                    286,
+                    1146
+                ],
+                "area": 105084
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99023812556477,
+                    13.168809404509862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2056,
+                "track_id_re": 16,
+                "time": 28.6,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    7,
+                    1107,
+                    153,
+                    1394
+                ],
+                "area": 41902
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99018923899793,
+                    13.169086356278555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2057,
+                "track_id_re": 17,
+                "time": 29.566666666666666,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    1717,
+                    1619,
+                    1754,
+                    1667
+                ],
+                "area": 1776
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99017290902277,
+                    13.169157809926741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2058,
+                "track_id_re": 18,
+                "time": 33.46666666666667,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    34,
+                    1138,
+                    181,
+                    1412
+                ],
+                "area": 40278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99012332474797,
+                    13.169388377809062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2059,
+                "track_id_re": 19,
+                "time": 34.63333333333333,
+                "class": "regulatory--stop",
+                "bbox": [
+                    440,
+                    1148,
+                    480,
+                    1303
+                ],
+                "area": 6200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99010681416704,
+                    13.169549560542771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2065,
+                "track_id_re": 20,
+                "time": 34.3,
+                "class": "regulatory--no-right-turn",
+                "bbox": [
+                    3678,
+                    964,
+                    3814,
+                    1161
+                ],
+                "area": 26792
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99021522286498,
+                    13.169476717729259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2066,
+                "track_id_re": 21,
+                "time": 37.56666666666667,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    69,
+                    1052,
+                    203,
+                    1356
+                ],
+                "area": 40736
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99010681412061,
+                    13.16979573567297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2068,
+                "track_id_re": 22,
+                "time": 38.333333333333336,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    1785,
+                    1596,
+                    1837,
+                    1649
+                ],
+                "area": 2756
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99010681412061,
+                    13.16979573567297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2069,
+                "track_id_re": 23,
+                "time": 41.63333333333333,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    18,
+                    1102,
+                    185,
+                    1391
+                ],
+                "area": 48263
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99014007325067,
+                    13.170141302253505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2074,
+                "track_id_re": 25,
+                "time": 48.0,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3695,
+                    1167,
+                    3805,
+                    1346
+                ],
+                "area": 19690
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9903591146871,
+                    13.170648993305203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2084,
+                "track_id_re": 30,
+                "time": 47.56666666666667,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    2338,
+                    1593,
+                    2370,
+                    1628
+                ],
+                "area": 1120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9903591146871,
+                    13.170648993305203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2085,
+                "track_id_re": 31,
+                "time": 52.7,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3708,
+                    1228,
+                    3823,
+                    1404
+                ],
+                "area": 20240
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99052058352491,
+                    13.171079268447157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2106,
+                "track_id_re": 38,
+                "time": 57.1,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    2350,
+                    1590,
+                    2392,
+                    1633
+                ],
+                "area": 1806
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99066847682327,
+                    13.1714366617706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2111,
+                "track_id_re": 39,
+                "time": 58.333333333333336,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    2507,
+                    1560,
+                    2569,
+                    1622
+                ],
+                "area": 3844
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99070102892357,
+                    13.171524145499301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2113,
+                "track_id_re": 41,
+                "time": 60.56666666666667,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3686,
+                    1241,
+                    3789,
+                    1411
+                ],
+                "area": 17510
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9907986852259,
+                    13.17178863119092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2141,
+                "track_id_re": 45,
+                "time": 67.3,
+                "class": "warning--double-curve-first-right",
+                "bbox": [
+                    3667,
+                    1150,
+                    3775,
+                    1328
+                ],
+                "area": 19224
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99097869765778,
+                    13.172320577330582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2142,
+                "track_id_re": 46,
+                "time": 67.96666666666667,
+                "class": "warning--double-curve-first-right",
+                "bbox": [
+                    0,
+                    643,
+                    206,
+                    1091
+                ],
+                "area": 92288
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99092238399368,
+                    13.172428502228373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2147,
+                "track_id_re": 49,
+                "time": 82.6,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    40,
+                    1092,
+                    179,
+                    1350
+                ],
+                "area": 35862
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99136538323083,
+                    13.173645617250987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2154,
+                "track_id_re": 52,
+                "time": 86.53333333333333,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    22,
+                    1191,
+                    178,
+                    1447
+                ],
+                "area": 39936
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99154946760201,
+                    13.173948060811266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2155,
+                "track_id_re": 53,
+                "time": 90.3,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    66,
+                    1162,
+                    202,
+                    1415
+                ],
+                "area": 34408
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99173229161597,
+                    13.174155520206368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2156,
+                "track_id_re": 54,
+                "time": 95.63333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2463,
+                    1554,
+                    2495,
+                    1595
+                ],
+                "area": 1312
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99219495799589,
+                    13.17441007571475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2157,
+                "track_id_re": 55,
+                "time": 99.36666666666666,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3692,
+                    1178,
+                    3792,
+                    1351
+                ],
+                "area": 17300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9924232345305,
+                    13.174538492691989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2160,
+                "track_id_re": 57,
+                "time": 98.9,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2179,
+                    1602,
+                    2213,
+                    1639
+                ],
+                "area": 1258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9924232345305,
+                    13.174538492691989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2161,
+                "track_id_re": 58,
+                "time": 103.16666666666667,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3707,
+                    1196,
+                    3806,
+                    1367
+                ],
+                "area": 16929
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9927229255982,
+                    13.17472851748559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2163,
+                "track_id_re": 60,
+                "time": 106.83333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3730,
+                    1228,
+                    3816,
+                    1391
+                ],
+                "area": 14018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99298928978786,
+                    13.174978956569936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2164,
+                "track_id_re": 61,
+                "time": 108.46666666666667,
+                "class": "warning--traffic-merges-right",
+                "bbox": [
+                    3624,
+                    1052,
+                    3796,
+                    1295
+                ],
+                "area": 41796
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99303865548436,
+                    13.175050869611526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2166,
+                "track_id_re": 63,
+                "time": 105.9,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    3114,
+                    1522,
+                    3160,
+                    1600
+                ],
+                "area": 3588
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99292339901142,
+                    13.174910835146456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2174,
+                "track_id_re": 67,
+                "time": 110.36666666666666,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3702,
+                    1231,
+                    3797,
+                    1396
+                ],
+                "area": 15675
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99315547505637,
+                    13.175207836395487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2179,
+                "track_id_re": 70,
+                "time": 110.5,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2267,
+                    1555,
+                    2301,
+                    1598
+                ],
+                "area": 1462
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99315547505637,
+                    13.175207836395487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2186,
+                "track_id_re": 74,
+                "time": 115.73333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3700,
+                    1032,
+                    3799,
+                    1196
+                ],
+                "area": 16236
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99341918467003,
+                    13.17573979351617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2187,
+                "track_id_re": 75,
+                "time": 113.36666666666666,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3718,
+                    1129,
+                    3801,
+                    1283
+                ],
+                "area": 12782
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99330525232489,
+                    13.175471238813836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2189,
+                "track_id_re": 77,
+                "time": 118.6,
+                "class": "warning--road-narrows-left",
+                "bbox": [
+                    67,
+                    852,
+                    284,
+                    1237
+                ],
+                "area": 83545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99342971932136,
+                    13.176040248394507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2192,
+                "track_id_re": 79,
+                "time": 118.13333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3733,
+                    1029,
+                    3831,
+                    1195
+                ],
+                "area": 16268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99348434315522,
+                    13.175918980108586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2201,
+                "track_id_re": 81,
+                "time": 120.43333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3694,
+                    1095,
+                    3783,
+                    1256
+                ],
+                "area": 14329
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99354950003595,
+                    13.176100198411653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2210,
+                "track_id_re": 85,
+                "time": 119.9,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3797,
+                    1354,
+                    3837,
+                    1425
+                ],
+                "area": 2840
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99354950003595,
+                    13.176100198411653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2211,
+                "track_id_re": 86,
+                "time": 122.76666666666667,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3711,
+                    1041,
+                    3804,
+                    1200
+                ],
+                "area": 14787
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99364624601961,
+                    13.176374544697543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2243,
+                "track_id_re": 96,
+                "time": 148.23333333333332,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    57,
+                    854,
+                    271,
+                    1158
+                ],
+                "area": 65056
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99440585821579,
+                    13.178860873447155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2250,
+                "track_id_re": 101,
+                "time": 148.23333333333332,
+                "class": "complementary--distance",
+                "bbox": [
+                    26,
+                    1164,
+                    198,
+                    1284
+                ],
+                "area": 20640
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99440585821579,
+                    13.178860873447155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2255,
+                "track_id_re": 104,
+                "time": 158.8,
+                "class": "warning--crossroads",
+                "bbox": [
+                    63,
+                    863,
+                    265,
+                    1184
+                ],
+                "area": 64842
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99478008825041,
+                    13.179975413224167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2264,
+                "track_id_re": 111,
+                "time": 166.6,
+                "class": "warning--traffic-signals",
+                "bbox": [
+                    164,
+                    957,
+                    405,
+                    1276
+                ],
+                "area": 76879
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99504066526771,
+                    13.180797849686291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2275,
+                "track_id_re": 115,
+                "time": 167.8,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    2252,
+                    1589,
+                    2291,
+                    1626
+                ],
+                "area": 1443
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99516111466784,
+                    13.180869908024071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2276,
+                "track_id_re": 116,
+                "time": 172.06666666666666,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    3650,
+                    1070,
+                    3793,
+                    1310
+                ],
+                "area": 34320
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9952746545094,
+                    13.18124923392064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2281,
+                "track_id_re": 119,
+                "time": 172.06666666666666,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3717,
+                    1313,
+                    3802,
+                    1499
+                ],
+                "area": 15810
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9952746545094,
+                    13.18124923392064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2289,
+                "track_id_re": 123,
+                "time": 186.63333333333333,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    13,
+                    1003,
+                    209,
+                    1288
+                ],
+                "area": 55860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99564292143705,
+                    13.182667689533885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2290,
+                "track_id_re": 124,
+                "time": 183.73333333333332,
+                "class": "regulatory--no-stopping",
+                "bbox": [
+                    11,
+                    1007,
+                    173,
+                    1223
+                ],
+                "area": 34992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99554530947344,
+                    13.182374852791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2320,
+                "track_id_re": 137,
+                "time": 211.66666666666666,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3556,
+                    1274,
+                    3608,
+                    1376
+                ],
+                "area": 5304
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99652924834382,
+                    13.185035752056232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2326,
+                "track_id_re": 142,
+                "time": 236.26666666666668,
+                "class": "warning--junction-with-a-side-road-perpendicular-left",
+                "bbox": [
+                    13,
+                    1102,
+                    204,
+                    1409
+                ],
+                "area": 58637
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99717286843469,
+                    13.187340947757416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2345,
+                "track_id_re": 149,
+                "time": 257.3666666666667,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3757,
+                    1297,
+                    3821,
+                    1417
+                ],
+                "area": 7680
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99792785863335,
+                    13.189334942052028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2350,
+                "track_id_re": 151,
+                "time": 283.03333333333336,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3731,
+                    1305,
+                    3793,
+                    1426
+                ],
+                "area": 7502
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99872548020477,
+                    13.191778659138844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 739,
+                "track_id_re": 6,
+                "time": 15.466666666666667,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    64,
+                    897,
+                    286,
+                    1271
+                ],
+                "area": 83028
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98345502602695,
+                    12.960847479150903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 784,
+                "track_id_re": 10,
+                "time": 64.96666666666667,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    2776,
+                    1515,
+                    2861,
+                    1607
+                ],
+                "area": 7820
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9859465332194,
+                    12.956457141147846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 788,
+                "track_id_re": 12,
+                "time": 65.83333333333333,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    3672,
+                    1257,
+                    3782,
+                    1449
+                ],
+                "area": 21120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98599558594286,
+                    12.956361150477589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 811,
+                "track_id_re": 24,
+                "time": 106.5,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    2,
+                    1413,
+                    51,
+                    1472
+                ],
+                "area": 2891
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98822304689347,
+                    12.952735310713829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 812,
+                "track_id_re": 25,
+                "time": 107.13333333333334,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    1926,
+                    365,
+                    2049,
+                    486
+                ],
+                "area": 14883
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98820775770375,
+                    12.952599704908828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 819,
+                "track_id_re": 28,
+                "time": 109.96666666666667,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    1796,
+                    225,
+                    1997,
+                    378
+                ],
+                "area": 30753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98845258703409,
+                    12.952368199424102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 829,
+                "track_id_re": 29,
+                "time": 107.2,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    686,
+                    1522,
+                    745,
+                    1587
+                ],
+                "area": 3835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98828963813708,
+                    12.952641180501383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 839,
+                "track_id_re": 31,
+                "time": 108.63333333333334,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    20,
+                    1359,
+                    85,
+                    1462
+                ],
+                "area": 6695
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98838580725538,
+                    12.95246065252936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 843,
+                "track_id_re": 34,
+                "time": 113.73333333333333,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    1076,
+                    1566,
+                    1122,
+                    1613
+                ],
+                "area": 2162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98866261630305,
+                    12.951994562708366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 844,
+                "track_id_re": 35,
+                "time": 121.3,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    28,
+                    1276,
+                    86,
+                    1397
+                ],
+                "area": 7018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9890539824535,
+                    12.951330064426788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 853,
+                "track_id_re": 39,
+                "time": 121.5,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    8,
+                    1172,
+                    115,
+                    1337
+                ],
+                "area": 17655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9890539824535,
+                    12.951330064426788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 857,
+                "track_id_re": 40,
+                "time": 126.93333333333334,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    32,
+                    1230,
+                    156,
+                    1403
+                ],
+                "area": 21452
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.989395262505,
+                    12.950732800644417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 858,
+                "track_id_re": 41,
+                "time": 126.73333333333333,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    122,
+                    1332,
+                    175,
+                    1445
+                ],
+                "area": 5989
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.989395262505,
+                    12.950732800644417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 860,
+                "track_id_re": 42,
+                "time": 129.63333333333333,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    21,
+                    1061,
+                    160,
+                    1312
+                ],
+                "area": 34889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.98957581254066,
+                    12.950445245319385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 874,
+                "track_id_re": 45,
+                "time": 144.9,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    11,
+                    1364,
+                    88,
+                    1490
+                ],
+                "area": 9702
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99045362304763,
+                    12.94897631358159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 878,
+                "track_id_re": 49,
+                "time": 144.9,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    12,
+                    1501,
+                    59,
+                    1631
+                ],
+                "area": 6110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99045362304763,
+                    12.94897631358159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 882,
+                "track_id_re": 51,
+                "time": 146.86666666666667,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    3713,
+                    1313,
+                    3820,
+                    1490
+                ],
+                "area": 18939
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99048733633676,
+                    12.948734518131953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 913,
+                "track_id_re": 65,
+                "time": 169.33333333333334,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    30,
+                    1266,
+                    134,
+                    1440
+                ],
+                "area": 18096
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9918371846399,
+                    12.946638495730689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 915,
+                "track_id_re": 66,
+                "time": 169.3,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    84,
+                    1462,
+                    146,
+                    1625
+                ],
+                "area": 10106
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9918371846399,
+                    12.946638495730689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 921,
+                "track_id_re": 68,
+                "time": 173.2,
+                "class": "regulatory--yield",
+                "bbox": [
+                    1245,
+                    1551,
+                    1297,
+                    1601
+                ],
+                "area": 2600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99208151545963,
+                    12.946237361879243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 927,
+                "track_id_re": 73,
+                "time": 175.0,
+                "class": "regulatory--yield",
+                "bbox": [
+                    223,
+                    1277,
+                    300,
+                    1402
+                ],
+                "area": 9625
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99219505805796,
+                    12.9460345930476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 933,
+                "track_id_re": 77,
+                "time": 200.83333333333334,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    3648,
+                    1128,
+                    3796,
+                    1381
+                ],
+                "area": 37444
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9936122341165,
+                    12.943491773965295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 936,
+                "track_id_re": 78,
+                "time": 199.43333333333334,
+                "class": "complementary--distance",
+                "bbox": [
+                    2633,
+                    1601,
+                    2692,
+                    1642
+                ],
+                "area": 2419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99349861911564,
+                    12.943680447571513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 938,
+                "track_id_re": 79,
+                "time": 200.33333333333334,
+                "class": "complementary--distance",
+                "bbox": [
+                    3108,
+                    1520,
+                    3194,
+                    1586
+                ],
+                "area": 5676
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99354723320138,
+                    12.943585185101723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 972,
+                "track_id_re": 92,
+                "time": 216.2,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    2734,
+                    1581,
+                    2778,
+                    1626
+                ],
+                "area": 1980
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99447496788324,
+                    12.94205320257634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 979,
+                "track_id_re": 94,
+                "time": 218.0,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3734,
+                    1377,
+                    3793,
+                    1478
+                ],
+                "area": 5959
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99458911427271,
+                    12.941859565286364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 979,
+                "track_id_re": 94,
+                "time": 218.03333333333333,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3772,
+                    1366,
+                    3831,
+                    1467
+                ],
+                "area": 5959
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99458911427271,
+                    12.941859565286364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 998,
+                "track_id_re": 95,
+                "time": 227.73333333333332,
+                "class": "regulatory--yield",
+                "bbox": [
+                    226,
+                    1318,
+                    353,
+                    1490
+                ],
+                "area": 21844
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99520427828061,
+                    12.940987854386892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1010,
+                "track_id_re": 98,
+                "time": 237.1,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    2734,
+                    1561,
+                    2808,
+                    1639
+                ],
+                "area": 5772
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99564646558126,
+                    12.940078351173081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1011,
+                "track_id_re": 99,
+                "time": 237.93333333333334,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    3692,
+                    1332,
+                    3794,
+                    1498
+                ],
+                "area": 16932
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99572735654773,
+                    12.939953098143326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1018,
+                "track_id_re": 102,
+                "time": 259.23333333333335,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    262,
+                    1146,
+                    419,
+                    1375
+                ],
+                "area": 35953
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99774521183014,
+                    12.936702274630976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1042,
+                "track_id_re": 109,
+                "time": 272.6333333333333,
+                "class": "regulatory--no-parking-or-no-stopping",
+                "bbox": [
+                    1352,
+                    1600,
+                    1420,
+                    1726
+                ],
+                "area": 8568
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99914483093143,
+                    12.934346522770138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1069,
+                "track_id_re": 119,
+                "time": 283.6,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    3483,
+                    1322,
+                    3614,
+                    1512
+                ],
+                "area": 24890
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00012277529623,
+                    12.932523547257492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1075,
+                "track_id_re": 122,
+                "time": 284.0,
+                "class": "warning--curve-left",
+                "bbox": [
+                    1129,
+                    1548,
+                    1202,
+                    1634
+                ],
+                "area": 6278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00020274554494,
+                    12.932568412371824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1086,
+                "track_id_re": 126,
+                "time": 295.8333333333333,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    3535,
+                    1366,
+                    3635,
+                    1526
+                ],
+                "area": 16000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00121313887144,
+                    12.93069882024029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1089,
+                "track_id_re": 127,
+                "time": 298.73333333333335,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    2554,
+                    1597,
+                    2600,
+                    1658
+                ],
+                "area": 2806
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00159235990061,
+                    12.930261230464648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1100,
+                "track_id_re": 2,
+                "time": 5.666666666666667,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    3621,
+                    1295,
+                    3790,
+                    1508
+                ],
+                "area": 35997
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93137539948911,
+                    13.001619518492426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1111,
+                "track_id_re": 9,
+                "time": 5.366666666666666,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    3379,
+                    1471,
+                    3447,
+                    1583
+                ],
+                "area": 7616
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93131014729664,
+                    13.001709236764418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1112,
+                "track_id_re": 10,
+                "time": 5.7,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3737,
+                    1501,
+                    3824,
+                    1663
+                ],
+                "area": 14094
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93137539948911,
+                    13.001619518492426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1123,
+                "track_id_re": 18,
+                "time": 5.633333333333334,
+                "class": "complementary--chevron-right",
+                "bbox": [
+                    3769,
+                    1494,
+                    3812,
+                    1567
+                ],
+                "area": 3139
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93137539948911,
+                    13.001619518492426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1213,
+                "track_id_re": 50,
+                "time": 44.766666666666666,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    1165,
+                    86,
+                    1366,
+                    257
+                ],
+                "area": 34371
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93403657493536,
+                    12.998429104977063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1215,
+                "track_id_re": 52,
+                "time": 46.333333333333336,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    3684,
+                    1065,
+                    3826,
+                    1345
+                ],
+                "area": 39760
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93402967032489,
+                    12.998283330270162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1218,
+                "track_id_re": 54,
+                "time": 44.2,
+                "class": "complementary--distance",
+                "bbox": [
+                    2419,
+                    1615,
+                    2474,
+                    1645
+                ],
+                "area": 1650
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93389818658667,
+                    12.998459931683676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1222,
+                "track_id_re": 56,
+                "time": 46.266666666666666,
+                "class": "complementary--distance",
+                "bbox": [
+                    3613,
+                    1396,
+                    3719,
+                    1478
+                ],
+                "area": 8692
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93402967032489,
+                    12.998283330270162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1225,
+                "track_id_re": 59,
+                "time": 49.43333333333333,
+                "class": "regulatory--stop",
+                "bbox": [
+                    45,
+                    1299,
+                    141,
+                    1455
+                ],
+                "area": 14976
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93433155237315,
+                    12.998068415712522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1226,
+                "track_id_re": 60,
+                "time": 49.46666666666667,
+                "class": "warning--two-way-traffic",
+                "bbox": [
+                    90,
+                    1372,
+                    141,
+                    1445
+                ],
+                "area": 3723
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93433155237315,
+                    12.998068415712522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1234,
+                "track_id_re": 64,
+                "time": 50.86666666666667,
+                "class": "warning--two-way-traffic",
+                "bbox": [
+                    3502,
+                    1470,
+                    3549,
+                    1531
+                ],
+                "area": 2867
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93438646796349,
+                    12.997833304035801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1257,
+                "track_id_re": 68,
+                "time": 66.06666666666666,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3685,
+                    1246,
+                    3811,
+                    1446
+                ],
+                "area": 25200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9353794581941,
+                    12.99655543237959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1260,
+                "track_id_re": 69,
+                "time": 63.766666666666666,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    50,
+                    1368,
+                    161,
+                    1520
+                ],
+                "area": 16872
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93532335334965,
+                    12.996777905464395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1266,
+                "track_id_re": 71,
+                "time": 66.06666666666666,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3728,
+                    1453,
+                    3807,
+                    1676
+                ],
+                "area": 17617
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9353794581941,
+                    12.99655543237959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1270,
+                "track_id_re": 74,
+                "time": 71.0,
+                "class": "regulatory--yield",
+                "bbox": [
+                    300,
+                    1379,
+                    383,
+                    1489
+                ],
+                "area": 9130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9357959713716,
+                    12.99617080919291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1276,
+                "track_id_re": 75,
+                "time": 73.56666666666666,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    78,
+                    1372,
+                    152,
+                    1510
+                ],
+                "area": 10212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93600726042216,
+                    12.995908760372298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1289,
+                "track_id_re": 77,
+                "time": 94.46666666666667,
+                "class": "regulatory--u-turn",
+                "bbox": [
+                    405,
+                    1416,
+                    449,
+                    1545
+                ],
+                "area": 5676
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93742215175006,
+                    12.994132034598618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1295,
+                "track_id_re": 78,
+                "time": 93.83333333333333,
+                "class": "regulatory--stop",
+                "bbox": [
+                    904,
+                    1537,
+                    952,
+                    1612
+                ],
+                "area": 3600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93742215175006,
+                    12.994132034598618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1309,
+                "track_id_re": 80,
+                "time": 101.0,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    37,
+                    1189,
+                    118,
+                    1327
+                ],
+                "area": 11178
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93792513043957,
+                    12.99353164858221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1318,
+                "track_id_re": 84,
+                "time": 106.5,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    240,
+                    1157,
+                    342,
+                    1316
+                ],
+                "area": 16218
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93829779960943,
+                    12.99314480515805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1324,
+                "track_id_re": 85,
+                "time": 104.5,
+                "class": "regulatory--turn-left",
+                "bbox": [
+                    3696,
+                    1230,
+                    3825,
+                    1400
+                ],
+                "area": 21930
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93808500020215,
+                    12.993232816141271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1329,
+                "track_id_re": 88,
+                "time": 109.26666666666667,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    11,
+                    1092,
+                    118,
+                    1257
+                ],
+                "area": 17655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.93850739543169,
+                    12.99292692975452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1345,
+                "track_id_re": 95,
+                "time": 134.23333333333332,
+                "class": "warning--slippery-road-surface",
+                "bbox": [
+                    23,
+                    1141,
+                    179,
+                    1387
+                ],
+                "area": 38376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94061768119448,
+                    12.991238413442296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1347,
+                "track_id_re": 96,
+                "time": 134.1,
+                "class": "complementary--distance",
+                "bbox": [
+                    204,
+                    1438,
+                    325,
+                    1541
+                ],
+                "area": 12463
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94061768119448,
+                    12.991238413442296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1360,
+                "track_id_re": 99,
+                "time": 149.2,
+                "class": "regulatory--turn-left",
+                "bbox": [
+                    3694,
+                    1283,
+                    3816,
+                    1446
+                ],
+                "area": 19886
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9419030706746,
+                    12.990297701354438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1365,
+                "track_id_re": 102,
+                "time": 170.23333333333332,
+                "class": "regulatory--u-turn",
+                "bbox": [
+                    3096,
+                    1497,
+                    3139,
+                    1573
+                ],
+                "area": 3268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94387062979139,
+                    12.989049668136062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1367,
+                "track_id_re": 103,
+                "time": 170.96666666666667,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    2373,
+                    1604,
+                    2407,
+                    1641
+                ],
+                "area": 1258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94395170664262,
+                    12.988990869147585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1370,
+                "track_id_re": 105,
+                "time": 171.46666666666667,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    2426,
+                    1595,
+                    2464,
+                    1635
+                ],
+                "area": 1520
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94395170664262,
+                    12.988990869147585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1371,
+                "track_id_re": 106,
+                "time": 174.1,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3726,
+                    1397,
+                    3781,
+                    1557
+                ],
+                "area": 8800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94423023986033,
+                    12.988810660676286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1372,
+                "track_id_re": 107,
+                "time": 174.13333333333333,
+                "class": "regulatory--keep-left",
+                "bbox": [
+                    3741,
+                    1228,
+                    3828,
+                    1379
+                ],
+                "area": 13137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94423023986033,
+                    12.988810660676286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1374,
+                "track_id_re": 109,
+                "time": 176.4,
+                "class": "regulatory--yield",
+                "bbox": [
+                    220,
+                    1291,
+                    310,
+                    1419
+                ],
+                "area": 11520
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94447602768778,
+                    12.988767919926467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1406,
+                "track_id_re": 123,
+                "time": 228.83333333333334,
+                "class": "regulatory--maximum-speed-limit-90",
+                "bbox": [
+                    3656,
+                    599,
+                    3784,
+                    758
+                ],
+                "area": 20352
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94932280099927,
+                    12.985558658696645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1413,
+                "track_id_re": 126,
+                "time": 236.16666666666666,
+                "class": "regulatory--turn-left",
+                "bbox": [
+                    3710,
+                    1288,
+                    3823,
+                    1451
+                ],
+                "area": 18419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.94997479411217,
+                    12.985138929558364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1669,
+                "track_id_re": 11,
+                "time": 19.9,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3678,
+                    1220,
+                    3732,
+                    1333
+                ],
+                "area": 6102
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99036183440964,
+                    13.277309968964833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1678,
+                "track_id_re": 14,
+                "time": 33.13333333333333,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3462,
+                    454,
+                    3580,
+                    592
+                ],
+                "area": 16284
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99047578144877,
+                    13.27885435786425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1692,
+                "track_id_re": 18,
+                "time": 42.3,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    1709,
+                    1545,
+                    1755,
+                    1592
+                ],
+                "area": 2162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99044895019156,
+                    13.279939278035673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1695,
+                "track_id_re": 19,
+                "time": 45.5,
+                "class": "warning--hairpin-curve-right",
+                "bbox": [
+                    17,
+                    861,
+                    246,
+                    1202
+                ],
+                "area": 78089
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99048129816371,
+                    13.280317819936965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1697,
+                "track_id_re": 21,
+                "time": 45.5,
+                "class": "complementary--distance",
+                "bbox": [
+                    11,
+                    1214,
+                    167,
+                    1330
+                ],
+                "area": 18096
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99048129816371,
+                    13.280317819936965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1718,
+                "track_id_re": 31,
+                "time": 65.16666666666667,
+                "class": "warning--pass-left-or-right",
+                "bbox": [
+                    3635,
+                    1115,
+                    3790,
+                    1351
+                ],
+                "area": 36580
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99068747808843,
+                    13.282604980464637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1719,
+                "track_id_re": 32,
+                "time": 65.13333333333334,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    3648,
+                    1369,
+                    3732,
+                    1548
+                ],
+                "area": 15036
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99068747808843,
+                    13.282604980464637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1773,
+                "track_id_re": 48,
+                "time": 79.46666666666667,
+                "class": "warning--curve-left",
+                "bbox": [
+                    6,
+                    985,
+                    111,
+                    1188
+                ],
+                "area": 21315
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99072536995618,
+                    13.284337083193718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1774,
+                "track_id_re": 49,
+                "time": 79.43333333333334,
+                "class": "regulatory--maximum-speed-limit-40",
+                "bbox": [
+                    38,
+                    1211,
+                    115,
+                    1367
+                ],
+                "area": 12012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99072536995618,
+                    13.284337083193718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1818,
+                "track_id_re": 69,
+                "time": 84.63333333333334,
+                "class": "complementary--obstacle-delineator",
+                "bbox": [
+                    116,
+                    1259,
+                    219,
+                    1458
+                ],
+                "area": 20497
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9907741099756,
+                    13.285115559891635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1819,
+                "track_id_re": 70,
+                "time": 83.8,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    1110,
+                    1521,
+                    1156,
+                    1584
+                ],
+                "area": 2898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99075791788293,
+                    13.284986026089404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1823,
+                "track_id_re": 72,
+                "time": 83.96666666666667,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    971,
+                    1523,
+                    1008,
+                    1569
+                ],
+                "area": 1702
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99075791788293,
+                    13.284986026089404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1824,
+                "track_id_re": 73,
+                "time": 84.56666666666666,
+                "class": "regulatory--pass-on-either-side",
+                "bbox": [
+                    50,
+                    1025,
+                    186,
+                    1233
+                ],
+                "area": 28288
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9907741099756,
+                    13.285115559891635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1834,
+                "track_id_re": 78,
+                "time": 84.63333333333334,
+                "class": "complementary--chevron-left",
+                "bbox": [
+                    608,
+                    1446,
+                    686,
+                    1534
+                ],
+                "area": 6864
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9907741099756,
+                    13.285115559891635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1861,
+                "track_id_re": 86,
+                "time": 89.1,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    2223,
+                    96,
+                    2421,
+                    261
+                ],
+                "area": 32670
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99089898581987,
+                    13.285643897934731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1866,
+                "track_id_re": 90,
+                "time": 87.7,
+                "class": "regulatory--height-limit",
+                "bbox": [
+                    3351,
+                    1071,
+                    3389,
+                    1121
+                ],
+                "area": 1900
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99088270975365,
+                    13.28551165509494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1881,
+                "track_id_re": 92,
+                "time": 95.13333333333334,
+                "class": "warning--traffic-merges-left",
+                "bbox": [
+                    40,
+                    952,
+                    225,
+                    1266
+                ],
+                "area": 58090
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99087185255367,
+                    13.286442774305671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1903,
+                "track_id_re": 103,
+                "time": 101.96666666666667,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3411,
+                    568,
+                    3523,
+                    712
+                ],
+                "area": 16128
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9910128026075,
+                    13.287251709320653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1919,
+                "track_id_re": 106,
+                "time": 104.36666666666666,
+                "class": "warning--children",
+                "bbox": [
+                    1771,
+                    1529,
+                    1813,
+                    1572
+                ],
+                "area": 1806
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99093704973268,
+                    13.287430720716564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1933,
+                "track_id_re": 112,
+                "time": 106.33333333333333,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3524,
+                    1324,
+                    3591,
+                    1427
+                ],
+                "area": 6901
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99104539088846,
+                    13.287602042896003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1938,
+                "track_id_re": 114,
+                "time": 111.23333333333333,
+                "class": "warning--children",
+                "bbox": [
+                    57,
+                    786,
+                    303,
+                    1156
+                ],
+                "area": 91020
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99100250316104,
+                    13.288104930556262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1963,
+                "track_id_re": 122,
+                "time": 113.2,
+                "class": "regulatory--maximum-speed-limit-60",
+                "bbox": [
+                    1259,
+                    1458,
+                    1350,
+                    1551
+                ],
+                "area": 8463
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99103507620318,
+                    13.28831258261996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1976,
+                "track_id_re": 127,
+                "time": 116.46666666666667,
+                "class": "warning--curve-right",
+                "bbox": [
+                    2558,
+                    1540,
+                    2628,
+                    1612
+                ],
+                "area": 5040
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99117560927498,
+                    13.288605170430952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 1999,
+                "track_id_re": 133,
+                "time": 118.06666666666666,
+                "class": "warning--curve-right",
+                "bbox": [
+                    3075,
+                    1448,
+                    3163,
+                    1577
+                ],
+                "area": 11352
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99119137462756,
+                    13.288796533646332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": 2018,
+                "track_id_re": 143,
+                "time": 123.4,
+                "class": "regulatory--no-parking",
+                "bbox": [
+                    3113,
+                    1476,
+                    3188,
+                    1568
+                ],
+                "area": 6900
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.99127269411149,
+                    13.289249890216912
+                ]
+            }
+        }
+    ]
+}
