@@ -1,2 +1,1 @@
-# HighwayVision
-A tool for mapping object features along Highways.
+A tool for displaying traffic signs and video footages from dash cameras.
