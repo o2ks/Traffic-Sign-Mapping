@@ -8,7 +8,7 @@
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
     />
-    <title>Leaflet.VideoMaps-demo</title>
+    <title>Traffic Signs Mapping Demo</title>
     <style>
       body {
         margin: 0;
@@ -22,12 +22,29 @@
         position: absolute;
         top: 540px;
         left: 10px;
-        width: 450px;
-        height: 270px;
+        width: 640px;
+        height: 380px;
         padding: 0px;
         z-index: 500;
+        /* resize: both;
+        overflow: auto; */
         /* border: 5px solid red; */
       }
+
+    .container {
+    position: absolute;
+    /* left: 50%; */
+    /* top: 50%; */
+    min-height: 2rem;
+    width: 15rem;
+    padding: 10px;
+    background-color: rgb(218, 255, 194);
+    border-radius: 5px;
+    transform: translate(0%, 0%);
+    cursor: move;
+    user-select: none;
+}
+      
       .box{
         position: absolute;
         top: 0;
@@ -43,13 +60,14 @@
   <body>
     <div class="box"> Click on Track to play the video </div>
     <div id="map"></div>
-    <div id="vplayer"></div>
+    <div class="container" id="vplayer"></div>
   </body>
 </html>
 
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.vectorgrid@latest/dist/Leaflet.VectorGrid.js"></script>
-<script src="https://unpkg.com/leaflet.videomaps@1.1.1/dist/Leaflet.VideoMaps.js"></script>
+<!-- <script src="https://unpkg.com/leaflet.videomaps@1.1.1/dist/Leaflet.VideoMaps.js"></script> -->
+<script src="LVideoMaps.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier-Leaflet/0.2.6/oms.min.js"></script>.
 <script src="https://www.youtube.com/iframe_api"></script>
 
@@ -137,6 +155,21 @@ fetch('./sample_signs.geojson')
 		signsLayer.addData(output);
 	})
 	.catch(err => console.error(err));
+
+  const container = document.querySelector(".container");
+function onMouseDrag({ movementX, movementY }) {
+    let getContainerStyle = window.getComputedStyle(container);
+    let leftValue = parseInt(getContainerStyle.left);
+    let topValue = parseInt(getContainerStyle.top);
+    container.style.left = `${leftValue + movementX}px`;
+    container.style.top = `${topValue + movementY}px`;
+}
+container.addEventListener("mousedown", () => {
+    container.addEventListener("mousemove", onMouseDrag);
+});
+document.addEventListener("mouseup", () => {
+    container.removeEventListener("mousemove", onMouseDrag);
+});
 
 </script>   
 
